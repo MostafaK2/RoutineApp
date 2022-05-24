@@ -1,4 +1,5 @@
-# SwiftApp
-TO DO: 
-Implement Core Data Correctly
-add dictionaries
+# Routine App
+Allows for saving routines for 7 days of the week \n 
+
+
+
